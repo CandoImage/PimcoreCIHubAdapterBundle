@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": ">=7.2",
-    "pimcore/data-hub": "^1.0",
+    "pimcore/data-hub": "dev-cando-customizations",
     "pimcore/pimcore": "^6.0",
     "ci-hub/simple-rest-adapter-bundle": "^1.0"
   },
